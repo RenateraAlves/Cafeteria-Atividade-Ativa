@@ -1,0 +1,4 @@
+Café Preto|5.00
+Cappuccino|8.50
+Pão de Queijo|6.00
+Chá Gelado|4.50

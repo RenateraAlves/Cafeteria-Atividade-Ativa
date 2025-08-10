@@ -1,0 +1,4 @@
+Café|50
+Leite|30
+Açúcar|20
+Pão de Queijo|40
